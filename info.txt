@@ -1,0 +1,1 @@
+for some reason my computer name was showing up as author instead of my GitHub name. I changed my name in the git config. Hopefully it worked.
